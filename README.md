@@ -5,4 +5,4 @@
   * Код под названием (Varkt_diff) решает дифференциальное уравнение и строит по нему график зависимости скорости от времени.
   * Код под названием (Varkt_ksp) подключается к приложению KSP во время запуска ракеты и на основе данных, полученных из приложения, строит график.
 # Ссылка на диск с работой
-   https:скоро добавлю
+   https://drive.google.com/drive/folders/1kwt_xRMJMJ_MsPklMGcoPlhvOL12FrDf?hl=ru)https://drive.google.com/drive/folders/1kwt_xRMJMJ_MsPklMGcoPlhvOL12FrDf?hl=ru
